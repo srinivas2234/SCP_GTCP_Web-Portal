@@ -1,0 +1,13 @@
+bitarray==2.3.4
+Flask==1.0.2
+Flask_Cors==3.0.10
+matplotlib==1.5.1
+networkx==2.4
+numpy==1.11.0
+opencv_python==4.4.0.42
+pandas==0.24.2
+Pillow==9.1.0
+rdkit==2009.Q1-1
+Werkzeug==0.15.2
+
+

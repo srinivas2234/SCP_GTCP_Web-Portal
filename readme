@@ -1,0 +1,18 @@
+To Generate frequent Subgraphs
+
+python -m gspan_mining_struct -s minrf ./graphdata/data_set_file './structure.data
+Here minrf - minimum relative frequency
+     data_set_file - dataset (ex : datasetfile is input.txt)
+     structure.data - file which contains the structures
+
+Images will be in the file - data_set_name+"data_2"+"_"+str(minrf)
+
+To Generate Subgraph Coverage Patterns
+
+python cmine_struct1.py minrf mincs maxor data_set_name
+
+Scp images will be in the file - scp_images_"+data_set_name+"_"+mincs
+
+
+
+

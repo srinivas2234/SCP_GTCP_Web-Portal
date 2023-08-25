@@ -1,0 +1,4 @@
+execution_time:0.0591378211975
+Number of Candidate Patterns:355
+Number of Coverage Patterns:49
+Max-graphs:4
